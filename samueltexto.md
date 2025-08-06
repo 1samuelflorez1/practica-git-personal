@@ -7,5 +7,3 @@ texto para probar el cherry pick
 ejercicio 2
 
 mas texto para hacer rebase
-
-texto para revert
